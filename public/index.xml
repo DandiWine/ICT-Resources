@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dandiwine</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Dandiwine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Dandiwine</copyright>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/hanndy-links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hanndy-links/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Purpose of the physical layer</title>
+      <link>//localhost:1313/networking/purpose-of-the-physical-layer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/networking/purpose-of-the-physical-layer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>//localhost:1313/networking/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/networking/test/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>//localhost:1313/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about-me/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
