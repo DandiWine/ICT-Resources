@@ -1,3 +1,8 @@
+---
+title: common ports
+catagories: "networking"
+---
+
 ### World Wide Web Protocols
 
 |Port|Transport Protocol|Application Protocol|Description|
