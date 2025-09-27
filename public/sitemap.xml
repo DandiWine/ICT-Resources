@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/ICT-Resources/hanndy-links/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/ICT-Resources/networking/common-ports/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -18,7 +13,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/ICT-Resources/hanndy-links/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/ICT-Resources/networking/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ICT-Resources/networking/networking-terms/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
