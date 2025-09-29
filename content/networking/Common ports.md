@@ -32,7 +32,7 @@ catagories: "networking"
 |445|TCP|SMB/CIFS|Server Message Block or Common Internet File System allow for sharing of files, printers, and other resources between nodes on a network.|
 |548|TCP, UDP|AFP|Apple Filing Protocol is a proprietary protocol developed by Apple to enable file services for macOS and classic Mac OS.|
 
-## Remote Access Protocols
+### Remote Access Protocols
 
 |Port|Transport Protocol|Application Protocol|Description|
 |---|---|---|---|
@@ -42,7 +42,7 @@ catagories: "networking"
 
 ---
 
-## Network Operations Protocols
+### Network Operations Protocols
 
 |Port|Transport Protocol|Application Protocol|Description|
 |---|---|---|---|
@@ -76,7 +76,7 @@ catagories: "networking"
 | 445         | TCP      | SMB/CIFS      |
 | 548         | TCP      | AFP           |
 | 3389        | TCP, UDP | RDP           |
-# Wireless Protocols
+
 
 
 

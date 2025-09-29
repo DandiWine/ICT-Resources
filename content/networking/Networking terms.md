@@ -5,7 +5,7 @@ featureimage: "https://imgs.search.brave.com/3N7ZIpy49K9TVPnKL_pty5dP4J5osNmx6Oh
 ---
 
 
-the networking terminology neatly organized into a markdown table.
+The networking terminology neatly organized into a markdown table from A-Z.
 
 | Term/Acronym | Definition |
 | :--- | :--- |

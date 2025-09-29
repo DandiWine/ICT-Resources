@@ -12,11 +12,14 @@ type: page
 
 I am an ICT Student, and the more i learn the more i really think i should document a lot.
 I got tired of constantly snooping in my Google drive and making all these documents.
-The more you learn the more important it is to make notes.
-And the more important to document, so you can work faster in the future or look back that you are smarter than befoore:p
+The more you learn the more important it is to take notes.
+the more you document, the faster you can work in case you forget and coffee isn't enough.
 
-So my initial thought became to build my own site with hugo and hosting on GitHub.
+So my initial thought became to build my own site with hugo and hosting it on GitHub.
 It has been hectic and a bit technical, but with time and efforot i eventually got it online.
+
+My goal with this mainly is to pressrve my lessons for the public and for my collegues in my classroom.
+To spread around infromation for the nerdy that don't know where to start.
 
 
 **More to come in the future**
